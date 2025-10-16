@@ -5,7 +5,7 @@ Built a Random Forest model to predict flight ticket prices with feature enginee
 
 📂 Dataset<br>
 The dataset used for this project contains flight details such as airline, source,departure_time, destination city, date, duration, and price.<br>
-➡️ [**Click here to view the dataset**](./dataset/flight_price_data.csv)
+➡️ [**Click here to view the dataset**](Clean_Dataset.xls)
 <br>
 
 

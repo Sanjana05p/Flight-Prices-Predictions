@@ -11,4 +11,4 @@ The dataset used for this project contains flight details such as airline, sourc
 
 💻 Python File<br>
 You can access the main Jupyter Notebook / Python script used for model building and evaluation below:<br>
-➡️ [**Click here to view the Python file**](./Flight_Price_Prediction.ipynb)
+➡️ [**Click here to view the Python file**](PROJECT.ipynb)
